@@ -5,4 +5,5 @@ The project is still under development and I will udate it the source code whene
 Just have fun with it. Cheers!!
 
 # The GUI
-![Alt text](../GUI/invoice.jpg "Optional title")
+
+![customer](https://user-images.githubusercontent.com/84599965/235351780-b2722c5c-4b0d-49dd-b085-b86e83be585a.png)
