@@ -5,4 +5,4 @@ The project is still under development and I will udate it the source code whene
 Just have fun with it. Cheers!!
 
 # The GUI
-![GUI](../GUI/invoice.jpg)
+![Alt text](../GUI/invoice.jpg "Optional title")
