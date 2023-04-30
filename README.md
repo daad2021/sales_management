@@ -6,4 +6,7 @@ Just have fun with it. Cheers!!
 
 # The GUI
 
-![customer](https://user-images.githubusercontent.com/84599965/235351780-b2722c5c-4b0d-49dd-b085-b86e83be585a.png)
+![invoice](https://user-images.githubusercontent.com/84599965/235351829-2f7a1c56-b82d-4856-97d9-0b819327d8d1.png)
+![stock](https://user-images.githubusercontent.com/84599965/235351848-bcc94bbe-426d-4142-8cee-0044fe55112a.png)
+![customer](https://user-images.githubusercontent.com/84599965/235351853-5183ebf6-9052-4c1b-b758-e380f68b4689.png)
+![sales](https://user-images.githubusercontent.com/84599965/235351866-5293c8e7-3750-46f9-aac7-a8ea18d7eac0.png)
